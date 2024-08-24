@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cantenui.github.io/sitemap.html.gz
+Sitemap: https://cantenui.github.io/app/sitemap.html.gz
+Sitemap: https://cantenui.github.io/assets/sitemap.html.gz
+Sitemap: https://cantenui.github.io/css/sitemap.html.gz
+Sitemap: https://cantenui.github.io/includes/sitemap.html.gz
+Sitemap: https://cantenui.github.io/item/sitemap.html.gz
+Sitemap: https://cantenui.github.io/src/sitemap.html.gz
